@@ -1,3 +1,12 @@
+.vs*
+*.pdb
+*.vcx*
+*.filters
+*.user
+*.sln
+x64
+x86
+
 # Prerequisites
 *.d
 
